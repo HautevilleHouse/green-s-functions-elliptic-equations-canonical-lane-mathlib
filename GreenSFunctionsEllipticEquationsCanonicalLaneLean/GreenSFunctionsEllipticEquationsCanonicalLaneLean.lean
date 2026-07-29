@@ -1,0 +1,7 @@
+import GreenSFunctionsEllipticEquationsCanonicalLaneLean.AdmissibleClass
+
+namespace HautevilleHouse
+namespace GreenSFunctionsEllipticEquationsCanonicalLaneLean
+
+end GreenSFunctionsEllipticEquationsCanonicalLaneLean
+end HautevilleHouse
